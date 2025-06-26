@@ -8,4 +8,6 @@
 - <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Backtesting Engine </a>
 - <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">RRG Visualizer </a>
 
-**<a href="https://github.com/PatrickRych/Portfolio-Manager">Project Archive </a>**
+| <a href="https://github.com/PatrickRych/Project/edit/main/README.md">LandingPage </a>
+| <a href="https://github.com/PatrickRych/Portfolio-Manager">Project Archive </a>
+****
