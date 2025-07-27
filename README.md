@@ -1,11 +1,16 @@
-## Projects
-- <a href="https://github.com/PatrickRych/EquityFactor">Equity Risk Factor</a>
-- <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Correlation Matrix</a>
-- <a href="https://github.com/PatrickRych/Factor-Regression-Tool">Factor Regression Tool</a>
-- <a href="https://github.com/PatrickRych/Quant-Dashboard">Quant Dashboard </a>
-- <a href="https://github.com/PatrickRych/Rate-Dynamic-Model">Rate Dynamic Modeling </a>
-- <a href="https://github.com/PatrickRych/Backtesting-Engine">Backtesting Engine </a>
-- <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">RRG Visualizer </a>
+
+
+
+
+
+
+<img width="2686" height="1354" alt="OptionJournaling" src="https://github.com/user-attachments/assets/a8a0e5b2-ab5c-48f3-b3ef-58adf7845b25" />
+
+
+
+
+
+
 
 
 | <a href="https://github.com/PatrickRych/Project/edit/main/README.md">LandingPage </a>
